@@ -34,6 +34,7 @@ const roomsArray = [
 ];
 
 
+
 // Weapons Array
 const weaponsArray = [
   { name: "Weapon 1", weight: 10 },
